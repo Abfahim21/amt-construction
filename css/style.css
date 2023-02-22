@@ -11,3 +11,14 @@ nav {
     position: absolute;
     height: 82px;
 }
+
+section.about .container-fluid {
+    background-image: url("/photos/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 604px;
+}
+
+section.about .container-fluid p {
+    display: flex;
+}
