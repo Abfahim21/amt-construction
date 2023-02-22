@@ -35,9 +35,6 @@ section.hero .container-fluid {
     margin-left: -140px;
 }
 
-section.about {
-    text-align: center;
-}
 section.about .container-fluid h4 {
     font-size: 30px;
     font-weight: 300;
