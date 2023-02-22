@@ -86,3 +86,9 @@ section.portfolio .container-fluid p {
     font-weight: 400;
     line-height: 15px;
 }
+
+section.clients {
+    background-color: black;
+    color: white;
+}
+
