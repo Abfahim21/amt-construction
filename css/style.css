@@ -8,5 +8,6 @@
 }
 
 nav {
+    position: absolute;
     height: 82px;
 }
