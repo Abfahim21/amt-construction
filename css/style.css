@@ -96,3 +96,7 @@ section.clients p {
     font-size: 20px;
     padding-top: 66px;
 }
+
+section.clients.text-center.text-white img {
+    padding-bottom: 50px;
+}
