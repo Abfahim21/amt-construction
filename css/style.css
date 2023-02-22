@@ -72,3 +72,17 @@ section.services .container-fluid p {
     font-weight: 700;
     color: rgba(208, 32, 252, 1);
 }
+section.portfolio {
+    text-align: center;
+    color: white;
+}
+section.portfolio .container-fluid h2 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+}
+section.portfolio .container-fluid p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 15px;
+}
