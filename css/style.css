@@ -18,7 +18,3 @@ section.about .container-fluid {
     background-position: center;
     height: 604px;
 }
-
-section.about .container-fluid p {
-    display: flex;
-}
