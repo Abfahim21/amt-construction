@@ -11,10 +11,9 @@ nav {
     position: absolute;
     height: 82px;
 }
-
-section.about .container-fluid {
-    background-image: url("/photos/Rectangle\ 2.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 604px;
+section.hero .container-fluid {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
