@@ -62,3 +62,13 @@ section.services .container-fluid p {
     font-weight: 400;
     line-height: 15px;
 }
+.service-box {
+    border: 1px solid rgba(218, 218, 218, 1);
+    text-align: center;
+}
+
+.service-heading h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(208, 32, 252, 1);
+}
