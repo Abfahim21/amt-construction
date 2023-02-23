@@ -1,6 +1,7 @@
-/* Smartphones (portrait) */
-@media only screen and (max-width: 320px) {
+/*Large Smartphones (portrait) */
+@media only screen and (max-width: 425px) {
     /* Styles */
+
   }
   
   /* iPads (portrait and landscape)  */
@@ -8,7 +9,10 @@
     /* Styles */
   }
   
-  /* Desktops and laptops  */
-  @media only screen and (min-width: 1224px) {
+  /* large Desktop and laptops  */
+  @media only screen and (min-device-width: 1225px) and (max-device-width: 1440px) {
     /* Styles */
+    .header {
+      width: 100vw;
+    }
   }
