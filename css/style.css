@@ -44,7 +44,7 @@ section.hero .container-xxl {
     margin-left: -140px;
 }
 
-section.about .container-fluid h4 {
+section.about .container-xxl h4 {
     font-size: 30px;
     font-weight: 300;
     line-height: 1.7;
@@ -58,12 +58,12 @@ section.services {
     text-align: center;
     color: white;
 }
-section.services .container-fluid h2 {
+section.services .container-xxl h2 {
     font-size: 50px;
     font-weight: 700;
     line-height: 60px;
 }
-section.services .container-fluid p {
+section.services .container-xxl p {
     font-size: 20px;
     font-weight: 400;
     line-height: 15px;
@@ -82,12 +82,12 @@ section.portfolio {
     text-align: center;
     color: white;
 }
-section.portfolio .container-fluid h2 {
+section.portfolio .container-xxl h2 {
     font-size: 50px;
     font-weight: 700;
     line-height: 60px;
 }
-section.portfolio .container-fluid p {
+section.portfolio .container-xxl p {
     font-size: 20px;
     font-weight: 400;
     line-height: 15px;
