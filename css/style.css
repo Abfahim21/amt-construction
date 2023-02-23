@@ -11,9 +11,18 @@ nav {
     position: absolute;
     height: 82px;
 }
-section.hero .container-fluid {
+.hero-left {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+section.hero .container-xxl {
     display: flex;
     flex-direction: row;
+    align-content: center;
     justify-content: center;
     align-items: center;
 }
