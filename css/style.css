@@ -80,9 +80,33 @@ section.services .container-xxl p {
     font-weight: 700;
     color: rgba(208, 32, 252, 1);
 }
+.service-heading h2.practice {
+    color: rgba(252, 127, 68, 1);
+}
+.service-heading h2.award {
+    color: rgba(117, 84, 218, 1);
+}
+.service-heading h2.marketing {
+    color: rgba(231, 25, 46, 1);
+}
+.service-heading h2.branding {
+    color: rgba(255, 52, 200, 1);
+}
+.service-heading h2.corporate {
+    color: rgba(249, 177, 55, 1);
+}
+
 .service-img {
     padding-bottom: 20px;
 }
+.service-box.unique {
+    padding-bottom: 15px;
+}
+.services-details {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 section.portfolio {
     text-align: center;
     color: white;
