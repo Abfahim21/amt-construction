@@ -139,10 +139,3 @@ section.clients.text-center.text-white img {
 .footer {
     background-color: black;
 }
-
-.footer-part-all {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: flex-start;
-}
