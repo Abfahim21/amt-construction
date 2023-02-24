@@ -12,6 +12,10 @@ nav {
     height: 82px;
 }
 
+.nav-link:hover {
+    color: #FFF;
+}
+
 .logo-full {
     margin-top: 65px;
     margin-bottom: 20px;
@@ -33,6 +37,11 @@ section.about .container-xxl h4 {
     font-size: 30px;
     font-weight: 300;
     line-height: 1.7;
+}
+
+.service-heading h2:hover {
+    font-size: 21px;
+    cursor: pointer;
 }
 section.services .container-xxl h2 {
     font-size: 50px;
@@ -56,18 +65,23 @@ section.services .container-xxl p {
     font-weight: 700;
     color: rgba(208, 32, 252, 1);
 }
+
 .service-heading h2.practice {
     color: rgba(252, 127, 68, 1);
 }
+
 .service-heading h2.award {
     color: rgba(117, 84, 218, 1);
 }
+
 .service-heading h2.marketing {
     color: rgba(231, 25, 46, 1);
 }
+
 .service-heading h2.branding {
     color: rgba(255, 52, 200, 1);
 }
+
 .service-heading h2.corporate {
     color: rgba(249, 177, 55, 1);
 }
@@ -75,9 +89,11 @@ section.services .container-xxl p {
 .service-img {
     padding-bottom: 20px;
 }
+
 .service-box.unique {
     padding-bottom: 15px;
 }
+
 .services-details {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -88,6 +104,7 @@ section.portfolio .container-xxl h2 {
     font-weight: 700;
     line-height: 60px;
 }
+
 section.portfolio .container-xxl p {
     font-size: 20px;
     font-weight: 400;
@@ -111,9 +128,24 @@ section.clients.text-center.text-white img {
 .footer {
     background-color: black;
 }
+
 section.contact.text-center h2 {
     font-size: 50px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.4;
+}
+
+.hover-scale:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+.hover-scale-icon:hover {
+    transform: scale(1.3);
+    transition: transform 0.2s ease-in-out;
+}
+.hover-scale-amt-logo-icon:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
 }
