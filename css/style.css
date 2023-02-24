@@ -139,3 +139,9 @@ section.clients.text-center.text-white img {
 .footer {
     background-color: black;
 }
+section.contact.text-center h2 {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.4;
+}
