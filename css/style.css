@@ -3,6 +3,7 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -68,6 +69,8 @@ section.services .container-xxl p {
     line-height: 15px;
 }
 .service-box {
+    padding-top: 30px;
+    padding-bottom: 39px;
     border: 1px solid rgba(218, 218, 218, 1);
     text-align: center;
 }
@@ -76,6 +79,9 @@ section.services .container-xxl p {
     font-size: 20px;
     font-weight: 700;
     color: rgba(208, 32, 252, 1);
+}
+.service-img {
+    padding-bottom: 20px;
 }
 section.portfolio {
     text-align: center;
