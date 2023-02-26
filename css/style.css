@@ -136,7 +136,7 @@ section.contact.text-center h2 {
     line-height: 1.4;
 }
 
-.hover-scale:hover {
+.hover-scale:hover, .nav-item:hover {
     transform: scale(1.05);
     transition: transform 0.3s ease-in-out;
 }
