@@ -149,3 +149,13 @@ section.contact.text-center h2 {
     transform: scale(1.1);
     transition: transform 0.2s ease-in-out;
 }
+button.btn.btn-primary {
+    background: black;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+button.btn.btn-primary:hover {
+    background: white;
+    color: black;
+}
