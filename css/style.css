@@ -39,20 +39,18 @@ section.about .container-xxl h4 {
     line-height: 1.7;
 }
 
-.service-heading h2:hover {
-    font-size: 21px;
-    cursor: pointer;
-}
 section.services .container-xxl h2 {
     font-size: 50px;
     font-weight: 700;
     line-height: 60px;
 }
+
 section.services .container-xxl p {
     font-size: 20px;
     font-weight: 400;
     line-height: 15px;
 }
+
 .service-box {
     padding-top: 30px;
     padding-bottom: 39px;
@@ -140,21 +138,25 @@ section.contact.text-center h2 {
     transform: scale(1.05);
     transition: transform 0.3s ease-in-out;
 }
+
 .hover-scale-icon:hover {
     transform: scale(1.3);
     transition: transform 0.2s ease-in-out;
 }
+
 .hover-scale-amt-logo-icon:hover {
     cursor: pointer;
     transform: scale(1.1);
     transition: transform 0.2s ease-in-out;
 }
+
 button.btn.btn-primary {
     background: black;
     border: none;
     border-radius: 20px;
     padding: 10px 30px;
 }
+
 button.btn.btn-primary:hover {
     background: white;
     color: black;
